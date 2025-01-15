@@ -1,4 +1,4 @@
 # projects
-Welcome to my portfolio !
-Here you have access to some of my projetcs.
-Do not hesitate to comment and give me some feedback on it !
+Welcome to my portfolio ! \n
+Here you have access to some of my projetcs. \n
+Do not hesitate to comment and give me some feedback on it ! 
